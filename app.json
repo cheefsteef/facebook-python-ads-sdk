@@ -1,0 +1,15 @@
+{
+  "name": "facebook-python-ads-sdk",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
